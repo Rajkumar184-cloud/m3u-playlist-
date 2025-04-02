@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/playlist.m3u",
+      "dest": "/playlist.m3u",
+      "headers": {
+        "Content-Type": "audio/x-mpegurl"
+      }
+    }
+  ]
+}
