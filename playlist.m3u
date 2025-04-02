@@ -1,0 +1,60 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Bangla_HD.png", Zee Bangla HD http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1440976
+
+#EXTINF:-1, Somoy http://103.165.114.65:8080/channel2.ts
+
+#EXTINF:-1, T Sports TV http://link.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/1142
+
+#EXTINF:-1 group-title="Movies" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Cinema_HD.png", Zee Cinema HD https://live.drmlive-02.workers.dev/zee/zeecinema.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Cinema_HD.png", Zee Cinema HD https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="http://14.102.123.50:5001/jtvimage/Zing.png", Zing https://live.drmlive-02.workers.dev/zee/zing.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Zee_One_present_logo.png/512px-Zee_One_present_logo.png", Zee One https://ef56ef401101403a8b06f1dec29ef1eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ZeeOne/playlist.m3u8
+
+#EXTINF:-1, ZEE TV FHD http://link.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/597
+
+#EXTINF:-1, ZEE TV HD http://link.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/1364
+
+#EXTINF:-1, SONY MAX UK http://link.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/601
+
+#EXTINF:-1, SONY MAX FHD http://link.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/1366
+
+#EXTINF:-1, SONY MAX India http://link.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/747
+
+#EXTINF:-1, Hindi: SONY MAX 2 http://link.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/602
+
+#EXTINF:-1, STAR GOLD FHD http://link.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/605
+
+#EXTINF:-1, STAR GOLD HD http://link.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/946
+
+#EXTINF:-1, STAR GOLD 2 http://link.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/492
+
+#EXTINF:-1, STAR GOLD HD UK http://link.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/604
+
+#EXTINF:-1, Star Gold Select FHD http://link.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/631
+
+#EXTINF:-1, IN: NICK HD+ http://link.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/1272
+
+#EXTINF:-1, Nickelodeon India http://link.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/2333
+
+#EXTINF:-1, Sony Yay http://link.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/1640
+
+#EXTINF:-1, Discovery Kids http://link.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/1279
+
+#EXTINF:-1, POGO http://link.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/453
+
+#EXTINF:-1, SONIC Hindi http://link.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/5288
+
+#EXTINF:-1, Sat 7 Kids http://link.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/986
+
+#EXTINF:-1, Space http://link.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/1134
+
+#EXTINF:-1, Rotana Kids http://link.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/524
+
+#EXTINF:-1 group-title="Movies" tvg-logo="http://14.102.123.50:5001/jtvimage/And_Xplore_HD.png", &Xplore HD https://live.drmlive-02.workers.dev/zee/209.m3u8
+
+#EXTINF:-1 group-title="IND | Movies" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH0i6l5tqiDHvOcqA8Wu3qy3wBBLYZyF3_fFgm1M2EA7w.png", &PICTURE HD https://live.drmlive-02.workers.dev/zee/pictures.m3u8
+
